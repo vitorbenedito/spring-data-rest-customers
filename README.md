@@ -6,6 +6,7 @@ mvn jetty:run
 ## Resources
 http://localhost:8080/
 
+```json
 {
   "links" : [ {
     "rel" : "customers",
@@ -16,3 +17,4 @@ http://localhost:8080/
   } ],
   "content" : [ ]
 }
+```
