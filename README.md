@@ -1,9 +1,9 @@
-## Tests with Spring Data and Spring MVC
+# Tests with Spring Data and Spring MVC
 
-### Running project
+## Running project
 mvn jetty:run
 
-### Resources
+## Resources
 http://localhost:8080/
 
 {
